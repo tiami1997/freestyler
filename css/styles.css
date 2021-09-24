@@ -148,18 +148,7 @@ p {
 
 /* Pricing Section */
 
-#pricing {
-  padding: 100px;
-}
 
-.price-text {
-  font-size: 3rem;
-  line-height: 1.5;
-}
-
-.pricing-column {
-  padding: 3% 2%;
-}
 
 /* CTA Section */
 
@@ -182,3 +171,10 @@ p {
     margin-top: 5%;
   }
 }
+
+.dot {font-size: 10px; margin: 5px;}
+.scissor{font-size: 30px; margin-left: 20px;}
+#pricing{padding: 7% 15%;}
+table .first-row{text-align: left;}
+table td{padding-bottom: 2%;}
+.Preisliste{font-family: 'Montserrat', sans-serif; padding-bottom: 6rem; font-size: 2.5rem; color: black; text-align: left;}
